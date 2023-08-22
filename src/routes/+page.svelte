@@ -11,7 +11,7 @@
   >
     {#each articles as { title }}
       <a
-        class="px-8 py-4 rounded-lg bg-cyan-300/5 backdrop-blur-sm border-cyan-300 border-2 text-lg text-white uppercase font-bold
+        class="px-8 py-3 rounded-lg bg-cyan-300/5 backdrop-blur-sm border-cyan-300 border-2 text-lg text-white uppercase font-bold
         hover:scale-95 transition-transform w-full text-center flex justify-center items-center animate-enter-fall"
         href="#{title}"
       >

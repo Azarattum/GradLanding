@@ -1,5 +1,5 @@
 <header
-  class="h-screen flex items-center flex-col bg-stone-700 overflow-hidden bg-hero from-cyan-700 via-cyan-900 to-neutral-900 bg-blend-overlay"
+  class="min-h-[100svh] flex items-center flex-col bg-stone-700 overflow-hidden bg-hero from-cyan-700 via-cyan-900 to-neutral-900 bg-blend-overlay"
 >
   <h1
     class="w-full items-center z-10 justify-center uppercase text-white font-bold text-4xl md:text-6xl lg:text-8xl flex-grow flex"

@@ -10,7 +10,7 @@
   target="_blank"
 >
   <div
-    class="bg-gradient-to-r {gradient} inset-12 blur-3xl group-hover:scale-110 transition-transform absolute"
+    class="bg-gradient-to-r {gradient} inset-12 blur-3xl group-hover:scale-110 transition-transform absolute will-change-transform"
   />
   <img
     src={images[0]}
