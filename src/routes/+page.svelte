@@ -37,7 +37,11 @@
         class:bg-lines-right={!(i % 2)}
       />
       <Article>
-        <h2>{title}</h2>
+        <h2 class="max-w-max">
+          {title}
+          <div class="mt-2 bg-gradient-to-r {gradient} w-32 h-1" />
+        </h2>
+
         {#each text.split("\n") as paragraph}
           <p>{paragraph}</p>
         {/each}
