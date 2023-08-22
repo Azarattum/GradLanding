@@ -54,10 +54,10 @@
       class="z-20 bg-gradient-to-r {gradient} py-2 px-8 text-gray-100 rounded-lg font-bold text-lg group-active:scale-90 transition-transform"
     >
       <div
-        class="h-2 w-16 bg-current inline-block mb-1 rounded -mr-2 scale-x-50 group-hover:scale-100 transition-transform"
+        class="h-2 w-16 bg-current inline-block mb-1 rounded -mr-2 scale-x-50 group-hover:scale-100 transition-transform shadow-md"
       />
       <div
-        class="rounded-sm border-y-8 border-y-transparent inline-block border-l-[16px] border-l-current -translate-x-5 group-hover:translate-x-0 transition-transform"
+        class="rounded-sm border-y-8 border-y-transparent inline-block border-l-[16px] border-l-current -translate-x-5 group-hover:translate-x-0 transition-transform drop-shadow-md"
       />
     </button>
   </div>
